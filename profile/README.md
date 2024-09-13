@@ -13,7 +13,7 @@
 </p>
 
 <div>  
-  <img src="profile/proxy_overview.jpg" alt="Proxy system architecture">
+  <img src="proxy_overview.jpg" alt="Proxy system architecture">
 </div>
 
 <p> Partnership: <a href="http://nutes.uepb.edu.br/">NUTES-UEPB</a> | <a href="https://www.sefaz.pb.gov.br/">SEFAZ-PB</a></p>
